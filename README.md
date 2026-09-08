@@ -50,6 +50,7 @@ plt.show()
 
 <img width="1038" height="390" alt="image" src="https://github.com/user-attachments/assets/02a81c26-55fc-4063-9efe-229134e308dd" />
 
+<img width="1275" height="507" alt="image" src="https://github.com/user-attachments/assets/9e6868c9-a154-48a2-af0b-199f65805244" />
 
 
 ### RESULT - 
